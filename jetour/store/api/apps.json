@@ -1,0 +1,113 @@
+{
+    "code": 200,
+    "message": "Success",
+    "data": {
+        "pageSize": 20,
+        "total": 3,
+        "pageNum": 1,
+        "totalPage": 1,
+        "list": [
+            {
+                "id": "youtube",
+                "name": "Youtube",
+                "logoUrl": "https://cakudev.xyz/api/jetour/store/files/icons/youtube.png",
+                "downloadUrl": "https://cakudev.xyz/api/jetour/store/files/apks/youtube.apk",
+                "sign": "",
+                "packageName": "com.waze",
+                "isNew": 1,
+                "isRecommend": 1,
+                "isForceUpdate": 0,
+                "isTrafficRestriction": 0,
+                "isUnload": 0,
+                "isShow": 1,
+                "detail": {
+                    "id": "waze_001",
+                    "name": "Waze",
+                    "name2": "GPS Navigation",
+                    "logoUrl": "https://cakudev.xyz/api/jetour/store/files/icons/youtube.png",
+                    "versionName": "1.0",
+                    "versionCode": 492000,
+                    "remark": "Представляем последнюю версию нашего приложения/программы с важными исправлениями ошибок и улучшениями производительности. В этой версии мы сосредоточились на стабильности и надежности, чтобы сделать ваш опыт использования максимально комфортным и безопасным.",
+                    "updateDate": "2025-01-15 00:00:00",
+                    "downloadUrl": "https://cakudev.xyz/api/jetour/store/files/apks/youtube.apk",
+                    "jsonObject": "[\"https://your-server.com/files/screenshots/waze1.png\",\"https://your-server.com/files/screenshots/waze2.png\"]",
+                    "imgUrl": null,
+                    "size": "5MB",
+                    "packageName": "com.waze",
+                    "updateTime": "2025-01-15 10:00:00",
+                    "icp": null
+                }
+            },
+            {
+                "id": "maps_001",
+                "name": "Google Maps",
+                "logoUrl": "https://your-server.com/files/icons/maps.png",
+                "downloadUrl": "https://your-server.com/files/apks/maps.apk",
+                "sign": "",
+                "packageName": "com.google.android.apps.maps",
+                "isNew": 0,
+                "isRecommend": 1,
+                "isForceUpdate": 0,
+                "isTrafficRestriction": 0,
+                "isUnload": 0,
+                "isShow": 1,
+                "detail": {
+                    "id": "maps_001",
+                    "name": "Google Maps",
+                    "name2": "Navigation & Transit",
+                    "logoUrl": "https://your-server.com/files/icons/maps.png",
+                    "versionName": "11.50.0",
+                    "versionCode": 1150000,
+                    "remark": "Navigate your world faster and easier",
+                    "updateDate": "2025-01-10 00:00:00",
+                    "downloadUrl": "https://your-server.com/files/apks/maps.apk",
+                    "jsonObject": "[\"https://your-server.com/files/screenshots/maps1.png\"]",
+                    "imgUrl": null,
+                    "size": "120MB",
+                    "packageName": "com.google.android.apps.maps",
+                    "updateTime": "2025-01-10 15:30:00",
+                    "icp": null
+                }
+            },
+            {
+                "id": "spotify_001",
+                "name": "Spotify",
+                "logoUrl": "https://your-server.com/files/icons/spotify.png",
+                "downloadUrl": "https://your-server.com/files/apks/spotify.apk",
+                "sign": "",
+                "packageName": "com.spotify.music",
+                "isNew": 1,
+                "isRecommend": 0,
+                "isForceUpdate": 0,
+                "isTrafficRestriction": 0,
+                "isUnload": 0,
+                "isShow": 1,
+                "detail": {
+                    "id": "spotify_001",
+                    "name": "Spotify",
+                    "name2": "Music and Podcasts",
+                    "logoUrl": "https://your-server.com/files/icons/spotify.png",
+                    "versionName": "8.9.0",
+                    "versionCode": 89000,
+                    "remark": "Listen to music and podcasts",
+                    "updateDate": "2025-01-20 00:00:00",
+                    "downloadUrl": "https://your-server.com/files/apks/spotify.apk",
+                    "jsonObject": "[\"https://your-server.com/files/screenshots/spotify1.png\"]",
+                    "imgUrl": null,
+                    "size": "45MB",
+                    "packageName": "com.spotify.music",
+                    "updateTime": "2025-01-20 12:00:00",
+                    "icp": null
+                }
+            }
+        ]
+    },
+    "messageSource": {
+        "parentMessageSource": {
+            "parentMessageSource": null
+        },
+        "basenameSet": [
+            "i18n/messages/messages"
+        ]
+    }
+}
